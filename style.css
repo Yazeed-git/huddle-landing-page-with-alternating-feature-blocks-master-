@@ -172,7 +172,7 @@ header{
 
 footer{
     background-color: var(--Very-Dark-Cyan);
-    padding: 7em 3em 0;
+    padding: 7em 3em 2em;
     display: flex;
     flex-direction: column;
     gap: 2em;

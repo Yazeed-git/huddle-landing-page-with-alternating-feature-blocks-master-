@@ -318,8 +318,10 @@ footer{
         column-gap: 8em;
         justify-self: center;
     }
-    .copyright{
-        grid-column: 2/4;
+   .copyright{
+        grid-column: 3/5;
+        justify-self: flex-end;
+        text-align: right;
     }
 
 }
